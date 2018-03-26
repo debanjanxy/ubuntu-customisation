@@ -1,6 +1,6 @@
 # ubuntu-themes
 
-You can various themes at once. Command to install 
+You can install various themes at once. Command to install 
 
   sh themes.sh
   
