@@ -1,3 +1,11 @@
+#Install pip and pip3
+sudo apt install python-pip
+sudo apt install python3-pip
+sudo apt-get update
+
+#
+
+
 #papirus icon theme
 sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update
@@ -20,3 +28,5 @@ sudo apt-get install square-icons
 sudo add-apt-repository ppa:snwh/pulp
 sudo apt-get update
 sudo apt-get install paper-gtk-theme paper-icon-theme
+
+
